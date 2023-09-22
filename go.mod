@@ -1,3 +1,3 @@
-module portfolio
+module learn-go
 
 go 1.21.1
